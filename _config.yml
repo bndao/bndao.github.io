@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Prénom # A MODIFIER
-last_name: Nom # A MODIFIER
+first_name: Babacar # A MODIFIER
+last_name: Ndao # A MODIFIER
 contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -14,7 +14,7 @@ keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: RightRlogo.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url:  # A MODIFIER, TRES IMPORTANT, https://pseudo.github.io
+url: https://bndao.github.io # A MODIFIER, TRES IMPORTANT, https://pseudo.github.io
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -121,8 +121,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _pages/cv.md # à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
-  - _pages/repositories.md # a enlever si besoin d'une page code avec liens vers repos contenant code source de publis
+ # - _pages/cv.md # à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
+ # - _pages/repositories.md # a enlever si besoin d'une page code avec liens vers repos contenant code source de publis
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -196,8 +196,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [] # A MODIFIER
-  first_name: [] # A MODIFIER
+  last_name: [Ndao] # A MODIFIER
+  first_name: [Babacar] # A MODIFIER
 
   style: apa
   locale: en
@@ -569,8 +569,8 @@ jsonresume: # rubriques du cv, à modifier si besoin de certaines rubriques enle
   # - projects
   # - volunteer
   # - awards
-  # - certificates
-  # - skills
+   - certificates
+   - skills
   - languages
   # - interests
   # - references
