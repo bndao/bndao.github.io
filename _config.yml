@@ -569,7 +569,7 @@ jsonresume: # rubriques du cv, à modifier si besoin de certaines rubriques enle
   # - projects
   # - volunteer
   # - awards
-    - certificates
+  - certificates
   # - skills
   - languages
   # - interests
