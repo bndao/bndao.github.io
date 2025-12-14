@@ -4,7 +4,7 @@ title: Bioinformatic analyses
 permalink: /bioinformatic-analyses/
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: [Single-cell RNA-seq]
 horizontal: false
 ---
 
