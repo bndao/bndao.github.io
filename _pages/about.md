@@ -32,6 +32,5 @@ announcements:
       </a>
     </div>
 </div>
-Introduction ici
 As a Bioinformatics Engineer, I contribute to processing and interpreting high-throughput sequencing datasets (Whole Genome/Exome Sequençing, RAD-seq, bulk and single-cell RNA-seq, TCR-seq). My work involves providing tailored solutions to complex scientific challenges using tools such as R, Python, and Bash, enabling impactful collaborations with multidisciplinary teams.
 With a background in Data Analysis and Modeling, I bring a strong foundation in data modeling and genomics, including hands-on experience in NGS analysis. My goal is to leverage bioinformatics expertise to support transformative biomedical discoveries while fostering innovation and collaboration.
