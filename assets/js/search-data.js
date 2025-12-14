@@ -23,12 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "projects-pseudotime",
-          title: 'Pseudotime',
+        },{id: "nav-cv",
+          title: "CV",
           description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/sc_pseudotime.html";
-            },},{
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
