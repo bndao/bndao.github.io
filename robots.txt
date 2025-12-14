@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: /sitemap.xml
+Sitemap: https://bndao.github.io/sitemap.xml
