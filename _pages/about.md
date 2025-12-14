@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: PhotoBabacar.jpg #RightRlogo.png
+  image: PhotoBabacar2.jpg #RightRlogo.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.85rem;">Etablissement Français du Sang</p>
@@ -32,5 +32,8 @@ announcements:
       </a>
     </div>
 </div>
+Welcome to my GitHub portfolio, where you will find an overview of the bioinformatic analyses and visualizations I develop for internal and collaborative research projects.
+
 As a Bioinformatics Engineer, I contribute to processing and interpreting high-throughput sequencing datasets (Whole Genome/Exome Sequençing, bulk and single-cell RNA-seq, spatial transcriptomic, TCR-seq). My work involves providing tailored solutions to complex scientific challenges using tools such as R, Python, Bash and high performance computing, enabling impactful collaborations with multidisciplinary teams.
 With a background in Data Analysis and Modeling, I bring a strong foundation in data modeling and genomics, including hands-on experience in NGS analysis. My goal is to leverage bioinformatics expertise to support transformative biomedical discoveries while fostering innovation and collaboration.
+You can contact me using the links in the navigation bar.
