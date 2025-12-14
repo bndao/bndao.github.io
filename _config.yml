@@ -121,7 +121,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _pages/cv.md # à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
+  # - _pages/cv.md # à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
   - _pages/repositories.md # a enlever si besoin d'une page code avec liens vers repos contenant code source de publis
   - bin/
   - CONTRIBUTING.md
@@ -569,7 +569,7 @@ jsonresume: # rubriques du cv, à modifier si besoin de certaines rubriques enle
   # - projects
   # - volunteer
   # - awards
-  # - certificates
+    - certificates
   # - skills
   - languages
   # - interests
