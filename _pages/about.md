@@ -8,16 +8,16 @@ profile:
   image: RightRlogo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.85rem;">Bureau</p>
-    <p style="font-size: 0.85rem;">Adresse</p>
-    <p style="font-size: 0.85rem;">Code Postal, Ville, Pays</p>
+    <p style="font-size: 0.85rem;">Etablissement Français du Sang</p>
+    <p style="font-size: 0.85rem;">8 rue du Docteur Jean-François-Xavier Girod</p>
+    <p style="font-size: 0.85rem;">25020, Besançon, France</p>
     <br>
     <br>
     <br>
     <br>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -33,3 +33,5 @@ announcements:
     </div>
 </div>
 Introduction ici
+As a Bioinformatics Engineer, I contribute to processing and interpreting high-throughput sequencing datasets (Whole Genome/Exome Sequençing, RAD-seq, bulk and single-cell RNA-seq, TCR-seq). My work involves providing tailored solutions to complex scientific challenges using tools such as R, Python, and Bash, enabling impactful collaborations with multidisciplinary teams.
+With a background in Data Analysis and Modeling, I bring a strong foundation in data modeling and genomics, including hands-on experience in NGS analysis. My goal is to leverage bioinformatics expertise to support transformative biomedical discoveries while fostering innovation and collaboration.
