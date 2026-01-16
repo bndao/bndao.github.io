@@ -8,6 +8,15 @@ display_categories: [Single-cell RNA-seq]
 horizontal: false
 ---
 
+Welcome to my GitHub portfolio dedicated to bioinformatics analyses.
+This repository showcases various projects related to data analysis, statistics, and computational biology. My work focuses on reproducible research workflows and the analysis of biological data using high-performance computing resources.
+Most of the computationally intensive analyses are performed using the [Mésocentre de calcul de Franche-Comté](http://meso.univ-fcomte.fr/liens.html) 
+The main languages and tools I use include:
+•	R for statistical analysis, data visualization, and bioinformatics packages
+•	Python for data processing, scripting, and pipeline development
+•	Bash for workflow automation and interaction with HPC environments
+Feel free to explore the repositories, scripts, and notebooks. Feedback and discussions are welcome.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
